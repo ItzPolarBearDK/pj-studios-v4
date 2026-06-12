@@ -26,3 +26,6 @@ Thumbs.db
 
 # Local database
 Backend/backend.db
+
+# Local app configuration
+Backend/appsettings*.json
